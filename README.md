@@ -32,4 +32,8 @@ Contributing
 Contributions are welcome. Please feel free to fork this repository, make changes in your own branch, and then submit a pull request.
 
 ## License
+<<<<<<< HEAD
 This project is licensed under the terms of the MIT license.
+=======
+This project is licensed under the terms of the MIT license.
+>>>>>>> refs/remotes/calculator/master
